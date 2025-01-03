@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Translator
 
 This repository contains a machine translation system. It uses word embeddings to map English and French words into a shared vector space, enabling translation by finding an optimal transformation matrix \( R \) through gradient descent. The translation process leverages cross-lingual principles for embedding alignment.
@@ -118,4 +117,3 @@ This project is licensed under the MIT License.
 Happy translating! 🚀
 =======
 # machine_translator
->>>>>>> 4f02cb6477d2ed66a80f4f622280ae08a841a685
